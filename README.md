@@ -10,4 +10,5 @@ Clean and modern dark UI
 
 🔗 Data Sources
 Binance API — https://api.binance.com
+
 Crypto icons — https://github.com/spothq/cryptocurrency-icons
